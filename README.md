@@ -6,15 +6,15 @@ This repository serves as a sampler of my previous work with documenting project
 
 **Quick links:**
 
- - 1: This README.md File
-  - 1.1: What is this?
-  - 1.2: Who is this for?
- - 2: Bathymetry Analysis
-  - 2.1: What is this?
-  - 2.2: Who is this for?
- - 3: Esri Integration Codebase Notes
-  - 3.1: What is this?
-  - 3.2: Who is this for?
+ - [1: This README.md File](#1-this-readmemd-file)
+   - [1.1: What is this?](#11-what-is-this)
+   - [1.2: Who is this for?](#12-who-is-this-for)
+ - [2: Bathymetry Analysis](#2-bathymetry-analysis)
+   - [2.1: What is this?](#21-what-is-this)
+   - [2.2: Who is this for?](#22-who-is-this-for)
+ - [3: Esri Integration Codebase Notes](#3-esri-integration-codebase-notes)
+   - [3.1: What is this?](#31-what-is-this)
+   - [3.2: Who is this for?](#32-who-is-this-for)
 
  ---
 
